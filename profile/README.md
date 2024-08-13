@@ -1,6 +1,6 @@
 # Welcome to Bewusstsein Labs!
 
-Bewusstsein Labs is a organization that is dedicated to the deveoplement of open-source robotics software.
+Bewusstsein Labs is an organization that is dedicated to the development of open-source robotics software.
 
 - ***bewusst (“aware, conscious”) + sein (“to be”)*** - *Wiktionary*
 
